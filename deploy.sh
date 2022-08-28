@@ -7,9 +7,9 @@ CODE_DIST="dist"
 #部署时项目目录名
 CODE_DIR="test-deploy"
 #web服务器部署目录的上一级目录
-WEB_DIR="/data/wwwroot/FrontActivityWeb/"
+WEB_DIR="/home/www/website"
  #web服务器账户地址
-WEB_ADDR=root@10.9.28.91
+WEB_ADDR=root@47.99.62.12
 
 
 #编译打包打包代码
