@@ -5,7 +5,7 @@
 #需要部署的代码目录
 CODE_DIST="dist"
 #部署时项目目录名
-CODE_DIR="init-project"
+CODE_DIR="test-deploy"
 #web服务器部署目录的上一级目录
 WEB_DIR="/data/wwwroot/FrontActivityWeb/"
  #web服务器账户地址
