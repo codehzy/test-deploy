@@ -5,7 +5,6 @@
   <button @click="increment">+</button>
   <div v-for="data in dataList" :key="data.id">
     <button @click="getUserVideo(data)">获取摄像头权限{{ data.id }}</button>
-    <div>占位</div>
   </div>
 </template>
 
